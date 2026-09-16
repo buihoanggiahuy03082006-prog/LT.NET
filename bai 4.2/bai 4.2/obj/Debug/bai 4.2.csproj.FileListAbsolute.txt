@@ -1,0 +1,10 @@
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\bin\Debug\bai 4.2.exe.config
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\bin\Debug\bai 4.2.exe
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\bin\Debug\bai 4.2.pdb
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai 4.2.csproj.AssemblyReference.cache
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai_4._2.Form1.resources
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai_4._2.Properties.Resources.resources
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai 4.2.csproj.GenerateResource.cache
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai 4.2.csproj.CoreCompileInputs.cache
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai 4.2.exe
+C:\D\Ky 1 nam 3\Lap Trinh Net\bai tap tren lop\bai 4.2\bai 4.2\obj\Debug\bai 4.2.pdb
